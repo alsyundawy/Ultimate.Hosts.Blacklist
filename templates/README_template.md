@@ -83,10 +83,10 @@ follow/subscribe to the
 
 **NOTICE: THIS IS THE RECOMMENDED METHOD FOR WINDOWS USER.**
 
-| DNS Name | safedns.allover.co.za   | safedns2.allover.co.za  |
-| -------- | ----------------------- | ----------------------- |
-| IPv4     | `88.198.70.38`          | `88.198.70.39`          |
-| IPv6     | `2a01:4f8:140:5021::38` | `2a01:4f8:140:5021::39` |
+| DNS Name | safedns.allover.co.za   | safedns2.allover.co.za  | Ports        |
+| -------- | ----------------------- | ----------------------- | ------------ |
+| IPv4     | `88.198.70.38`          | `88.198.70.39`          | `53`, `5353` |
+| IPv6     | `2a01:4f8:140:5021::38` | `2a01:4f8:140:5021::39` | `53`, `5353` |
 
 ---
 
@@ -293,9 +293,9 @@ Come drop by and visit [Mitchell's Portfolio](https://mitchellkrog.com).
 ```
 MIT License
 
-Copyright (c) 2017, 2018, 2019, 2020, 2021, 2022 Ultimate Hosts Blacklist - @Ultimate-Hosts-Blacklist
-Copyright (c) 2017, 2018, 2019, 2020, 2021, 2022 Mitchell Krog - @mitchellkrogza
-Copyright (c) 2017, 2018, 2019, 2020, 2021, 2022 Nissar Chababy - @funilrys
+Copyright (c) 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 Ultimate Hosts Blacklist - @Ultimate-Hosts-Blacklist Contributors
+Copyright (c) 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 Mitchell Krog - @mitchellkrogza
+Copyright (c) 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 Nissar Chababy - @funilrys
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
